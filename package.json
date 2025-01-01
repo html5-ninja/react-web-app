@@ -11,7 +11,7 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
     "format": "prettier --write .",
-    "prepare": "husky"
+    "tsc": "tsc -b"
   },
   "dependencies": {
     "autoprefixer": "^10.4.20",

@@ -16,8 +16,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/web-app.git
-   cd web-app
+   git clone https://github.com/html5-ninja/react-web-app
+   cd react-web-app
    ```
 
 2. Install dependencies:
