@@ -14,61 +14,67 @@ Make sure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/web-app.git
-    cd web-app
-    ```
+
+   ```sh
+   git clone https://github.com/your-username/web-app.git
+   cd web-app
+   ```
 
 2. Install dependencies:
-    ```sh
-    npm install
-    # or
-    yarn install
-    ```
+   ```sh
+   npm install
+   # or
+   yarn install
+   ```
 
 ### Scripts
 
 - **Start development server:**
-    ```sh
-    npm run dev
-    # or
-    yarn dev
-    ```
+
+  ```sh
+  npm run dev
+  # or
+  yarn dev
+  ```
 
 - **Build for production:**
-    ```sh
-    npm run build
-    # or
-    yarn build
-    ```
+
+  ```sh
+  npm run build
+  # or
+  yarn build
+  ```
 
 - **Lint the code:**
-    ```sh
-    npm run lint
-    # or
-    yarn lint
-    ```
+
+  ```sh
+  npm run lint
+  # or
+  yarn lint
+  ```
 
 - **Format the code:**
-    ```sh
-    npm run format
-    # or
-    yarn format
-    ```
+
+  ```sh
+  npm run format
+  # or
+  yarn format
+  ```
 
 - **Run Storybook:**
-    ```sh
-    npm run storybook
-    # or
-    yarn storybook
-    ```
+
+  ```sh
+  npm run storybook
+  # or
+  yarn storybook
+  ```
 
 - **Build Storybook:**
-    ```sh
-    npm run build-storybook
-    # or
-    yarn build-storybook
-    ```
+  ```sh
+  npm run build-storybook
+  # or
+  yarn build-storybook
+  ```
 
 ### Project Structure
 
