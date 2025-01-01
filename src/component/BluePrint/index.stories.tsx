@@ -27,7 +27,7 @@ Default.parameters = {
   docs: {
     description: {
       story:
-        'This default story demonstrates the `BluePrint` component with a title and subtitle. copy and past this component to your project to keep the same structure.',
+        'This component is a blue print for a React web app. It is a simple component folder and updated as needed.',
     },
   },
 };

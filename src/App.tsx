@@ -1,4 +1,5 @@
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
+import BluePrint from './component/BluePrint';
 
 function App() {
   return (
@@ -7,7 +8,16 @@ function App() {
         <Routes>
           <Route
             path="/"
-            element={<div className="h-1 text-cyan-300">Home page</div>}
+            element={
+              <div className="flex w-full justify-center p-4">
+                <div className="border p-4 w-full">
+                  <BluePrint
+                    title="React web app"
+                    subtitle="Blue print component"
+                  />
+                </div>
+              </div>
+            }
           />
         </Routes>
       </Router>
